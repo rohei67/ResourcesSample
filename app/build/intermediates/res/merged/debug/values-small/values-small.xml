@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/0701AND/Desktop/prgData/ResourcesSample/app/src/main/res/values-small/dimen.xml -->
+    <eat-comment/>
+    <dimen name="a_button_corner">4dp</dimen>
+    <dimen name="a_button_padding">4dp</dimen>
+    <dimen name="a_button_stroke">2dp</dimen>
+    <dimen name="text_size">12sp</dimen>
+    <!-- From: file:/C:/Users/0701AND/Desktop/prgData/ResourcesSample/app/src/main/res/values-small/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">ButtonDesign</string>
+    <string name="hello">small screen</string>
+</resources>
